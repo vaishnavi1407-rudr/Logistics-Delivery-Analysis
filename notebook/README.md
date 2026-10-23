@@ -1,4 +1,4 @@
-# Week 1: Strategic Planning and Data Exploration in Logistics
+#  Strategic Planning and Data Exploration in Logistics
 
 ## 1. Introduction
 
