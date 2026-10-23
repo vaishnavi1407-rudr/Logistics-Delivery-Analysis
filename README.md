@@ -10,16 +10,7 @@ Objectives
 - Create visualizations to communicate findings.
 - Outline how predictive analytics and optimization could support logistics decisions.
 Repository Structure
-Logistics-Delivery-Analysis/
-├── data/
-│   ├── README.md
-│   └── logistics_delivery_data.csv
-├── notebook/
-│   ├── README.md
-│   └── Week1_Logistics_Delivery_Analysis.ipynb
-├── report/
-│   └── README.md
-└── README.md
+Logistics-Delivery-Analysis
 Dataset Description
 The dataset contains 500 rows and 11 columns.
 Column	Description
